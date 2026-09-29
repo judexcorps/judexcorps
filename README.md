@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jude 👋
 
-<!--
-**judexcorps/judexcorps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical/Electronics Engineering graduate from the University of Benin, based in Benin City, Nigeria.
 
-Here are some ideas to get you started:
+## What I do
+- Build AI agents and automations with n8n
+- Web development
+- Electronics and hardware troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [AI Job Hunter Agent](https://github.com/judexcorps/ai-job-hunter-agent): an automated workflow that finds jobs and matches them to my CV
+
+## Contact
+- Email: runotenijude@gmail.com
+- LinkedIn: https://linkedin.com/in/jude-ughakpoteni-337393413
